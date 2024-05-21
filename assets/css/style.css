@@ -92,6 +92,7 @@ main {
     background-color: aqua;
     flex: 1 0 auto;
     /*Push footer to bottom */
+    margin-top: 47px;
 }
 
 footer {
